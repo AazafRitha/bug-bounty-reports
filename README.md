@@ -5,7 +5,7 @@ Each report follows **OWASP Top 10 methodology** and includes **impact assessmen
 
 ---
 
-## 📂 Reports Included
+## Reports Included
 
 1. **Cryptographic Failures – gov.lk**  
    Weak SSL/TLS configuration (TLS 1.0/1.1, weak DH params, AES-CBC, NULL compression).  
@@ -49,19 +49,19 @@ Each report follows **OWASP Top 10 methodology** and includes **impact assessmen
 
 ---
 
-## 🛠️ Tools & Methodologies
+## Tools & Methodologies
 - **Tools:** Burp Suite, OWASP ZAP, Nikto, Nmap, testssl.sh, Subfinder  
 - **Methodologies:** OWASP Top 10, Manual Testing, Proof of Concept (PoC), Responsible Disclosure Practices  
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 These reports were created for **academic, ethical testing, and bug bounty learning purposes only**.  
 No unauthorized exploitation was performed.  
 
 ---
 
-## 👤 Author
+## Author
 **Aazaf Ritha J**  
 - 🎓 Cybersecurity Undergraduate @ SLIIT  
 - 🌐 [LinkedIn](https://linkedin.com/in/aazafritha)  
